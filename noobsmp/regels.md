@@ -77,7 +77,7 @@ De pvp regels van de NoobSMP.
 
 ### Zomaar iemand killen.
 
-Je mag niet iemand zomaar killen. Je mag wel iemand killen als de andere partij er mee akkoord is gegaan. Je mag ook iemand killen als jouw clan enemie is met een andere clan. **Beide partijen moeten dan ook akkoord zijn over het enemie schap**
+Je mag niet iemand zomaar killen. Je mag wel iemand killen als de andere partij er mee akkoord is gegaan. Je mag ook iemand killen als jouw clan enemie is met een andere clan. **Beide partijen moeten dan ook akkoord zijn over het enemy schap.**
 
 ### Spawnkillen
 
