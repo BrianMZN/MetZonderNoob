@@ -6,3 +6,6 @@ coverY: 0
 
 # 🇳🇱 MetZonderNoob
 
+{% hint style="info" %}
+Gemaakt door **Brian Development**
+{% endhint %}

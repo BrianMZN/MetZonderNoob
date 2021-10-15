@@ -1,7 +1,5 @@
 # Table of contents
 
-## Home
-
 * [🇳🇱 MetZonderNoob](README.md)
 
 ## NoobSMP
