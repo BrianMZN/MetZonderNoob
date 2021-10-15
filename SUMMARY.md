@@ -10,7 +10,7 @@
 ## 💬 Discord
 
 * [🧾 Regels](discord/regels.md)
-* [💭 Discord Server](htpps://metzondernoob.nl/discord)
+* [💬 Discord Server](https://discord.com/invite/ExvXN4rEvn)
 
 ## ❓ Hoe werkt dat?
 
