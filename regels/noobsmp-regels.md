@@ -4,13 +4,13 @@ cover: ../.gitbook/assets/gaming
 coverY: 68.0352422907489
 ---
 
-# 📑 Regels
+# 📑 NoobSMP Regels
 
-#### [<mark style="color:orange;">Snel naar PVP regels.</mark>](regels.md#pvp-regels)<mark style="color:orange;"></mark>
+#### [<mark style="color:orange;">Snel naar PVP regels.</mark>](noobsmp-regels.md#pvp-regels)<mark style="color:orange;"></mark>
 
 ### Gebruik je verstand.
 
-Bij elke regel kan je je zelf ook wel bedenken wat er wel of niet mag. Weet je het niet zeker? Check de [FAQ ](faq.md)en als het daar niet bij staan. Maak dan een ticket aan op de discord server.
+Bij elke regel kan je je zelf ook wel bedenken wat er wel of niet mag. Weet je het niet zeker? Check de [FAQ ](../belangrijke-informatie/faq.md)en als het daar niet bij staan. Maak dan een ticket aan op de discord server.
 
 ### Hackclients & x-ray packs zijn niet toegestaan.
 
