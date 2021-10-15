@@ -1,5 +1,5 @@
 ---
-description: De vaak gevraagde vragen over de NoobSMP.
+description: De vaak gevraagde vragen over of op de NoobSMP.
 cover: ../.gitbook/assets/[ br(eakfast) + (l)unch ] www.brunch.co.gif
 coverY: 0
 ---

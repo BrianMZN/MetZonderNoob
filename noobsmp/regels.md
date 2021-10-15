@@ -10,7 +10,7 @@ coverY: 68.0352422907489
 
 ### Gebruik je verstand.
 
-Bij elke regel kan je je zelf ook wel bedenken wat er wel of niet mag. Weet je het niet zeker? Check [FAQ ](faq.md)en als het daar niet bij staan. Maak dan een ticket aan op de discord server.
+Bij elke regel kan je je zelf ook wel bedenken wat er wel of niet mag. Weet je het niet zeker? Check de [FAQ ](faq.md)en als het daar niet bij staan. Maak dan een ticket aan op de discord server.
 
 ### Hackclients & x-ray packs zijn niet toegestaan.
 
