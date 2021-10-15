@@ -10,7 +10,7 @@ Type `/audio` in de Minecraft chat.
 
  
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![Hendrik pieterzoon?](<../.gitbook/assets/image (3) (1).png>)
 
 Druk dan op **here**. Dan zal er een webpagina openen
 
