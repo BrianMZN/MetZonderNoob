@@ -10,7 +10,7 @@ Type `/audio` in de Minecraft chat.
 
  
 
-![Hendrik pieterzoon?](<../.gitbook/assets/image (3) (1).png>)
+![Hendrik pieterzoon?](<../../.gitbook/assets/image (3) (1).png>)
 
 Druk dan op **here**. Dan zal er een webpagina openen
 
@@ -18,7 +18,7 @@ Druk dan op **here**. Dan zal er een webpagina openen
 
  
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 Klik dan op **Klik ergens om te verbinden**.
 
@@ -26,7 +26,7 @@ Klik dan op **Klik ergens om te verbinden**.
 
  
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 Druk dan onderaan op **Inschakelen** en dan zou het moeten werken. **Sluit je browser niet af.**
 

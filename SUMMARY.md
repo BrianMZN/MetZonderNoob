@@ -7,14 +7,14 @@
 * [📑 NoobSMP Regels](regels/noobsmp-regels.md)
 * [🧾 Discord Regels](regels/discord-regels.md)
 
-## 🎮 Belangrijke Informatie
+## 🎮 Belangrijke Informatie <a href="info" id="info"></a>
 
-* [Updates](belangrijke-informatie/updates/README.md)
-  * [📰 Update 2.0](belangrijke-informatie/updates/2.md)
-  * [📰 Update 1.0](belangrijke-informatie/updates/1.md)
-* [❓ FAQ](belangrijke-informatie/faq.md)
+* [Updates](info/updates/README.md)
+  * [📰 Update 2.0](info/updates/2.md)
+  * [📰 Update 1.0](info/updates/1.md)
+* [❓ FAQ](info/faq.md)
 
-## ❓ Hoe werkt dat?
+## ❓ Hoe werkt dat? <a href="how" id="how"></a>
 
-* [Hoe actieveer je proximity chat?](hoe-werkt-dat/hoe-actieveer-je-proximity-chat.md)
-  * [Het werkt niet.](hoe-werkt-dat/hoe-actieveer-je-proximity-chat/het-werkt-niet..md)
+* [Hoe actieveer je proximity chat?](how/hoe-actieveer-je-proximity-chat/README.md)
+  * [Het werkt niet.](how/hoe-actieveer-je-proximity-chat/het-werkt-niet..md)
