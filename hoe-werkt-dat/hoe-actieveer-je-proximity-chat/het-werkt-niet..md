@@ -15,3 +15,5 @@ Je kan in de minecraft server het command `/mm` of `/micmute` doen om te muten, 
 Maak dan een ticket aan in de discord server. 
 
 ##
+
+Website is gemaakt door [<mark style="color:orange;">**Brian Development**</mark>](https://www.brianmsc.nl)<mark style="color:orange;">****</mark>

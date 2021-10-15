@@ -1,5 +1,7 @@
 # Hoe actieveer je proximity chat?
 
+
+
 ### Stap 1.
 
 Type `/audio` in de Minecraft chat.
@@ -30,3 +32,6 @@ Druk dan onderaan op **Inschakelen** en dan zou het moeten werken. **Sluit je br
 
 
 
+Website is gemaakt door [<mark style="color:orange;">**Brian Development**</mark>](https://www.brianmsc.nl)
+
+Screenshots zijn met hulp van <mark style="color:orange;">Lijpemossel</mark> gelukt.
