@@ -7,5 +7,6 @@ coverY: 0
 # 🇳🇱 MetZonderNoob
 
 {% hint style="info" %}
-Gemaakt door **Brian Development**
+Op deze pagina zie je de regels van de Discord Server en de Minecraft server. De updates en nog meer in de toekomst.
 {% endhint %}
+
