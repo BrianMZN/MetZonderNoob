@@ -34,7 +34,7 @@ Nee, hacken en x-rayen mag niet.
 
 Nee, hierbij kan je ook je verstand gebruiken. en bedenken of het iemand boos kan maken.
 
-
-
 ###
+
+Website is gemaakt door [<mark style="color:orange;">**Brian Development**</mark>](https://www.brianmsc.nl)<mark style="color:orange;">****</mark>
 

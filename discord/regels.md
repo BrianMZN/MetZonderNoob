@@ -26,3 +26,4 @@ Bijvoorbeeld geen commands in algemeen en foto's in NoobSMP chat.
 
 
 
+Website is gemaakt door [<mark style="color:orange;">**Brian Development**</mark>](https://www.brianmsc.nl)<mark style="color:orange;">****</mark>

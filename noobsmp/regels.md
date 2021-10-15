@@ -6,7 +6,7 @@ coverY: 68.0352422907489
 
 # 📑 Regels
 
-#### [Snel naar PVP regels.](regels.md#pvp-regels)
+#### [<mark style="color:orange;">Snel naar PVP regels.</mark>](regels.md#pvp-regels)<mark style="color:orange;"></mark>
 
 ### Gebruik je verstand.
 
@@ -89,5 +89,5 @@ Iemand vaak achterelkaar killen mag ook niet.
 
 
 
-###
+Website is gemaakt door [<mark style="color:orange;">**Brian Development**</mark>](https://www.brianmsc.nl)<mark style="color:orange;">****</mark>
 

@@ -10,5 +10,4 @@
 ## 💬 Discord
 
 * [🧾 Regels](discord/regels.md)
-* [❔ FAQ](discord/faq.md)
 * [Discord Server](htpps://metzondernoob.nl/discord)
