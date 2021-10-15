@@ -1,7 +1,6 @@
 ---
 description: De vaak gevraagde vragen over de NoobSMP.
-cover: >-
-  https://lh5.googleusercontent.com/SRH25vKlm2laZLNyb7ssSrKEGzjyUHOY9NJPN4qiSCQRq1mPGCphSH2_8F3xOUpPIsIAXjRxBs6Zd0e7waeahzE=w16383
+cover: ../.gitbook/assets/[ br(eakfast) + (l)unch ] www.brunch.co.gif
 coverY: 0
 ---
 
