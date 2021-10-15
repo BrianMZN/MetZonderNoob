@@ -14,4 +14,5 @@
 
 ## ❓ Hoe werkt dat?
 
-* [Hoe actieveer je proximity chat?](hoe-werkt-dat/hoe-actieveer-je-proximity-chat.md)
+* [Hoe actieveer je proximity chat?](hoe-werkt-dat/hoe-actieveer-je-proximity-chat/README.md)
+  * [Het werkt niet.](hoe-werkt-dat/hoe-actieveer-je-proximity-chat/het-werkt-niet..md)
