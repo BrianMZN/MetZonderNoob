@@ -16,6 +16,10 @@ Bij elke regel kan je je zelf ook wel bedenken wat er wel of niet mag. Weet je h
 
 Dat houdt in dat je niet mag hacken en niet mag x-rayen. Als we er toch achterkomen krijg je eerst een week ban en daarna 1 maand.
 
+### Grieven mag niet.
+
+Je mag niet grieven niet in claims, maar ook niet buiten claims.
+
 ### Stelen mag buiten claims.
 
 Je mag stelen buiten buiten claims, maar je niet in claims ook niet waar je trust hebt.
